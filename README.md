@@ -14,15 +14,16 @@
 
 
 ### **技术栈:**
-
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://https://element-plus.org/"><code><img height="20" src="./images/element plus.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
+<br><br>
+![Html](https://img.shields.io/badge/Html-fbac13)
+![Css](https://img.shields.io/badge/Css-ffe5a0)
+![JavaScript](https://img.shields.io/badge/JavaScript-8ba9a5)
+![Typescript](https://img.shields.io/badge/Typescript-4C4A2A)
+![Vue](https://img.shields.io/badge/Vue-4B3CF2)
+![React](https://img.shields.io/badge/React-ff033e)
+![Vite](https://img.shields.io/badge/Vite-5C2E4A)
+![Element plus](https://img.shields.io/badge/Elementplus-9A5B2C)
+![Nodejs](https://img.shields.io/badge/Nodejs-3A5BA2)
 
 
 
